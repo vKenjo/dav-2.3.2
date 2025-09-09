@@ -1,0 +1,5 @@
+YearSheet,CustType,Customer_Count,Total_Revenue,Avg_Revenue_per_Customer,Avg_Purchase_Frequency,Avg_Order_Value,Avg_Days_Active
+2009-2010,New,4312,2260016.09,524.12,28.31,38.31,1.32
+2009-2010,Repeat,2721,6538217.64,2402.87,102.48,33.41,120.9
+2010-2011,New,4338,2244830.59,517.48,26.94,57.76,1.16
+2010-2011,Repeat,2704,6642396.3,2456.51,102.01,97.6,116.89
